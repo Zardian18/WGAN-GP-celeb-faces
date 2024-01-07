@@ -1,6 +1,7 @@
 # WGAN-GP-celeb-faces
 Generates image of celebrities using WGAN-GP
-`steps_per_epoch` =4 for faster training
+
+ `steps_per_epoch` =4 for faster training
 Actual images:
 ![actual](https://github.com/Zardian18/WGAN-GP-celeb-faces/assets/106113538/9af5a70f-09d1-4a76-9fda-cd2ab0abc5d7)
 Epoch 5:
