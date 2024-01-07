@@ -10,4 +10,4 @@ Epoch 100:
 Epoch 200:
 ![epoch200](https://github.com/Zardian18/WGAN-GP-celeb-faces/assets/106113538/fa280caa-0dd2-4044-824c-6a6b900f2d18)
 Finally generated images:
-![actual](https://github.com/Zardian18/WGAN-GP-celeb-faces/assets/106113538/9af5a70f-09d1-4a76-9fda-cd2ab0abc5d7)
+![generated img](https://github.com/Zardian18/WGAN-GP-celeb-faces/assets/106113538/a45c6550-f876-4426-853f-5fc2b3b1e7c9)
